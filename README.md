@@ -8,7 +8,7 @@
 - Intermediate Java
 
 📫 How to reach me:
-- [![Static Badge](https://img.shields.io/badge/dleninajemima@gmail.com-232f3e?style=social&logo=gmail)](https://mail.google.com/mail/u/?authuser=dleninajemima@gmail.com)
+- [![Static Badge](https://img.shields.io/badge/dleninajemima@gmail.com-232f3e?style=social&logo=gmail)](https://mail.google.com/mail/u/0/?fs=1&to=dleninajemima@gmail.com&su=SUBJECT&body=BODY&tf=cm)
 - [![Static Badge](https://img.shields.io/badge/lenina--dizon-232f3e?style=social&logo=linkedin)](https://www.linkedin.com/in/lenina-dizon/)
 
 ### I've worked with...
