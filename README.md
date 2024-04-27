@@ -27,5 +27,4 @@
 ![Static Badge](https://img.shields.io/badge/Node.js-417e38?style=for-the-badge&logo=node.js&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Flutter-0468d7?style=for-the-badge&logo=flutter&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Dart-0c6291?style=for-the-badge&logo=dart&logoColor=white)
-![Static Badge](https://img.shields.io/badge/AWS-ec7211?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/AWS-232f3e?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=ec7211)
