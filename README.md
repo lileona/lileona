@@ -36,7 +36,7 @@
 ## I've worked on...
 
 ### 🧾 Payroll API
-- The Payroll API is a case study done during my internship. It features payroll generation using employee attendance data, importing of attenance records, exporting of payroll reports, and simple entity/resource management through CRUD operations. This API was built using TORO Cloud's Martini, RESTful APIs, and the HyperSQL DataBase (HSQLDB).
+- The Payroll API is a case study done during my internship. It features payroll generation using employee attendance data, importing of attenance records as CSV, exporting of payroll reports as JSON, and simple entity/resource management through CRUD operations. This API was built using TORO Cloud's Martini, RESTful APIs, and the HyperSQL DataBase (HSQLDB).
 
 ### 💭 [detoX](https://github.com/lileona/detoX)
 - A Google Chrome browser extension for detecting and hiding 2022 Philippine Elections-related tweets with textual hate speech on Twitter using BERT.
