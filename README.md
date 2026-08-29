@@ -1,15 +1,12 @@
 ## Hi there, I'm Lenina 👋
 
-🔭 I’m currently working as a Backend Developer Intern at TORO Cloud
+🔭 I’m currently working as an Associate Full-Stack Developer at Lonti.com (Formerly known as TORO Cloud)
 
-🎓 I’m currently undertaking a Bachelor of Science in Computer Science degree at Holy Angel University
-
-🌱 I’m currently learning:
-- Intermediate Java
+🎓 I undertook a Bachelor of Science in Computer Science degree at Holy Angel University
 
 📫 How to reach me:
 - [![Gmail](https://img.shields.io/badge/dleninajemima@gmail.com-232f3e?style=social&logo=gmail)](https://mail.google.com/mail/u/0/?fs=1&to=dleninajemima@gmail.com&su=SUBJECT&body=BODY&tf=cm)
-- [![LinkedIn](https://img.shields.io/badge/lenina--dizon-232f3e?style=social&logo=linkedin)](https://www.linkedin.com/in/lenina-dizon/)
+- [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/lenina-dizon/)
 
 ## I've worked with...
 
@@ -19,15 +16,22 @@
 ![Git](https://img.shields.io/badge/Git-f64d27?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-1f2328?style=for-the-badge&logo=github&logoColor=white)
 ![BitBucket](https://img.shields.io/badge/BitBucket-2684ff?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white&labelColor=f29111)
 ![HyperSQL](https://img.shields.io/badge/HyperSQL-255d84?style=for-the-badge&logo=hypersql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=fff)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?style=for-the-badge&logo=githubcopilot&logoColor=fff)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/Node.js-417e38?style=for-the-badge&logo=node.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-0468d7?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0c6291?style=for-the-badge&logo=dart&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232f3e?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=ec7211)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=fff)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -35,8 +39,17 @@
 
 ## I've worked on...
 
+### Marketing / Customer Tracking System Integrations
+- For the Lonti suite.
+
+### Utility Apps
+- For use in the SaaS Apps.
+
+### SaaS Apps
+- As my main responsibility in Lonti.
+
 ### 🧾 Payroll API
-- The Payroll API is a case study done during my internship. It features payroll generation using employee attendance data, importing of attenance records as CSV, exporting of payroll reports as JSON, and simple entity/resource management through CRUD operations. This API was built using TORO Cloud's Martini, RESTful APIs, and the HyperSQL DataBase (HSQLDB).
+- The Payroll API is a case study done during my internship. It features payroll generation using employee attendance data, importing of attendance records as CSV, exporting of payroll reports as JSON, and simple entity/resource management through CRUD operations. This API was built using TORO Cloud's Martini, RESTful APIs, and the HyperSQL Database (HSQLDB).
 
 ### 💭 [detoX](https://github.com/lileona/detoX)
 - A Google Chrome browser extension for detecting and hiding 2022 Philippine Elections-related tweets with textual hate speech on Twitter using BERT.
