@@ -58,4 +58,4 @@
 
 ### 🔭 [Thelescope Landing Page](https://github.com/lileona/thelescope-landing-page)
 - Thelescope is a prototype of a patient record management system with an integrated audit log that utilizes blockchain technology. This landing page was created as part of our Cloud Computing course at school.
-- My contribution to a final group project due one day before, where I created static webpages from scratch after a 6-hour crash course on HTML and CSS, despite no prior background knowledge. The design showcased in the 'Dizon' branch/directory in the navigation menu is my interpretation or implementation of Sarip's design.
+- Built static, responsive landing page components from scratch in HTML/CSS after a rapid ramp-up, delivering one of the site’s page designs for the final group project.
