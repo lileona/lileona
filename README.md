@@ -1,6 +1,6 @@
 ## Hi there, I'm Lenina 👋
 
-🔭 I’m currently working as an Associate Full-Stack Developer at Lonti.com (Formerly known as TORO Cloud)
+🔭 I’m currently working as an Associate Full-Stack Developer at [Lonti.com](https://github.com/lontiplatform) (Formerly known as TORO Cloud)
 
 Here is my new GitHub profile, which I started using recently: https://github.com/lvdizon
 
