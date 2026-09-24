@@ -2,7 +2,9 @@
 
 🔭 I’m currently working as an Associate Full-Stack Developer at Lonti.com (Formerly known as TORO Cloud)
 
-🎓 I undertook a Bachelor of Science in Computer Science degree at Holy Angel University
+Here is my new GitHub profile, which I started using recently: https://github.com/lvdizon
+
+🎓 I earned a Bachelor of Science in Computer Science degree at Holy Angel University
 
 📫 How to reach me:
 - [![Gmail](https://img.shields.io/badge/dleninajemima@gmail.com-232f3e?style=social&logo=gmail)](https://mail.google.com/mail/u/0/?fs=1&to=dleninajemima@gmail.com&su=SUBJECT&body=BODY&tf=cm)
